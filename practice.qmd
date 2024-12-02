@@ -26,9 +26,12 @@ star_wars_df
 And do something with it:
 
 ```{python}
+<<<<<<< HEAD
+=======
 # Summary stats
 star_wars_df.head()
 star_wars_df.dtypes
 ```
 
 Here is more edits from Haylee
+>>>>>>> 8feeae236093f21037f3b356ebc379f892e01d0c
