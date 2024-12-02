@@ -27,7 +27,8 @@ And do something with it:
 
 ```{python}
 # Summary stats
-star_wars_df.tail()
+star_wars_df.head()
+star_wars_df.dtypes
 ```
 
-
+Here is more edits from Haylee
