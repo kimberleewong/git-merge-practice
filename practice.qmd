@@ -27,7 +27,7 @@ And do something with it:
 
 ```{python}
 # Summary stats
-star_wars_df.info()
+star_wars_df.plot()
 ```
 
-Kat's edits
+
